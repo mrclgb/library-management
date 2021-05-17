@@ -6,4 +6,4 @@ Functionalities:
 * Add user
 * Record borrowing history
 
-There are still a few errors needed to be update. 
+There are still a few bugs
